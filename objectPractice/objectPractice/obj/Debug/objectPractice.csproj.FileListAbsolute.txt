@@ -1,0 +1,2 @@
+C:\Users\Technologist\Documents\GitHub\Program5Solution\objectPractice\objectPractice\bin\Debug\objectPractice.exe.config
+C:\Users\Technologist\Documents\GitHub\Program5Solution\objectPractice\objectPractice\obj\Debug\objectPractice.csprojResolveAssemblyReference.cache

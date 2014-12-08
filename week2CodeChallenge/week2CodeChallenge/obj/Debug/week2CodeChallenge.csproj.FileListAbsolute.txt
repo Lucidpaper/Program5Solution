@@ -1,0 +1,12 @@
+C:\Users\Technologist\Documents\GitHub\Program5Solution\week2CodeChallenge\week2CodeChallenge\bin\Debug\week2CodeChallenge.exe.config
+C:\Users\Technologist\Documents\GitHub\Program5Solution\week2CodeChallenge\week2CodeChallenge\bin\Debug\week2CodeChallenge.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solution\week2CodeChallenge\week2CodeChallenge\bin\Debug\week2CodeChallenge.pdb
+C:\Users\Technologist\Documents\GitHub\Program5Solution\week2CodeChallenge\week2CodeChallenge\obj\Debug\week2CodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Program5Solution\week2CodeChallenge\week2CodeChallenge\obj\Debug\week2CodeChallenge.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solution\week2CodeChallenge\week2CodeChallenge\obj\Debug\week2CodeChallenge.pdb
+C:\Users\Technologist\Dropbox\Program5Solution\week2CodeChallenge\week2CodeChallenge\bin\Debug\week2CodeChallenge.exe.config
+C:\Users\Technologist\Dropbox\Program5Solution\week2CodeChallenge\week2CodeChallenge\obj\Debug\week2CodeChallenge.exe
+C:\Users\Technologist\Dropbox\Program5Solution\week2CodeChallenge\week2CodeChallenge\obj\Debug\week2CodeChallenge.pdb
+C:\Users\Technologist\Dropbox\Program5Solution\week2CodeChallenge\week2CodeChallenge\obj\Debug\week2CodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Dropbox\Program5Solution\week2CodeChallenge\week2CodeChallenge\bin\Debug\week2CodeChallenge.exe
+C:\Users\Technologist\Dropbox\Program5Solution\week2CodeChallenge\week2CodeChallenge\bin\Debug\week2CodeChallenge.pdb

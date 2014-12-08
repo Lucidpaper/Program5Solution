@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title | Aiko Cheslin</title>
+    @System.Web.Optimization.Styles.Render("~/Content/css")
+    <script src="https://www.google.com/cloudprint/client/cpgadget.js">
+    </script>
+
+    <script src="~/Scripts/jquery-2.1.1.min.js"></script>
+    <script src="~/Content/js/repo.min.js"></script>
+
+    <script>
+  window.onload = function() {
+    var gadget = new cloudprint.Gadget();
+    gadget.setPrintButton(
+        cloudprint.Gadget.createDefaultPrintButton("print_button_container")); // div id to contain the button
+    gadget.setPrintDocument("url", "Aikos resume", "http://students.seedpaths.com/Aiko-Cheslin/content/aikocheslin8.pdf");
+  }
+    </script>
+
+    
+
+</head>
+<body>
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Aiko Cheslin</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li ><a href="#">Resume</a></li>
+                    <li>@Html.ActionLink("Blog", "index", "BlogPosts")</li>
+                    <li><a href="#">Portfolio</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Link</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Action</a></li>
+                            <li><a href="#">Another action</a></li>
+                            <li><a href="#">Something else here</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Separated link</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    <div class="container">
+        
+        
+
+
+        <!--
+            animated gif for project in boot strap slide show
+            http://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html
+            add magnifier
+            add link to git hub and embed
+            http://darcyclarke.me/dev/repojs/
+        -->
+        <!--http://httpjunkie.com/2013/311/adding-mvc-5-identity-to-an-existing-project/-->
+        <!--add git linkedin and stack overflow-->
+        <!--add snapengage-->
+        @RenderBody()
+        <embed src="http://students.seedpaths.com/Aiko-Cheslin/content/aikocheslin8.pdf" width="900" height="1100" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+        <div id="print_button_container"></div>
+    </div>
+
+</body>
+
+</html>

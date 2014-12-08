@@ -1,0 +1,11 @@
+C:\Users\Technologist\Documents\GitHub\Program5Solution\changeMaket\changeMaket\bin\Debug\changeMaket.exe.config
+C:\Users\Technologist\Documents\GitHub\Program5Solution\changeMaket\changeMaket\bin\Debug\changeMaket.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solution\changeMaket\changeMaket\bin\Debug\changeMaket.pdb
+C:\Users\Technologist\Documents\GitHub\Program5Solution\changeMaket\changeMaket\obj\Debug\changeMaket.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solution\changeMaket\changeMaket\obj\Debug\changeMaket.pdb
+C:\Users\Technologist\Dropbox\Program5Solution\changeMaket\changeMaket\bin\Debug\changeMaket.exe.config
+C:\Users\Technologist\Dropbox\Program5Solution\changeMaket\changeMaket\obj\Debug\changeMaket.exe
+C:\Users\Technologist\Dropbox\Program5Solution\changeMaket\changeMaket\obj\Debug\changeMaket.pdb
+C:\Users\Technologist\Dropbox\Program5Solution\changeMaket\changeMaket\bin\Debug\changeMaket.exe
+C:\Users\Technologist\Dropbox\Program5Solution\changeMaket\changeMaket\bin\Debug\changeMaket.pdb
+C:\Users\Technologist\Dropbox\Program5Solution\changeMaket\changeMaket\obj\Debug\changeMaket.csprojResolveAssemblyReference.cache

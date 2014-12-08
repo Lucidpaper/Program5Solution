@@ -1,0 +1,6 @@
+/Users/Aiko/Dropbox/Program5Solution/CombatSimulatorV2/CombatSimulatorV2/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Aiko/Dropbox/Program5Solution/CombatSimulatorV2/CombatSimulatorV2/bin/Debug/CombatSimulatorV2.exe.config
+/Users/Aiko/Dropbox/Program5Solution/CombatSimulatorV2/CombatSimulatorV2/bin/Debug/CombatSimulatorV2.exe.mdb
+/Users/Aiko/Dropbox/Program5Solution/CombatSimulatorV2/CombatSimulatorV2/bin/Debug/CombatSimulatorV2.exe
+/Users/Aiko/Dropbox/Program5Solution/CombatSimulatorV2/CombatSimulatorV2/obj/Debug/CombatSimulatorV2.exe
+/Users/Aiko/Dropbox/Program5Solution/CombatSimulatorV2/CombatSimulatorV2/obj/Debug/CombatSimulatorV2.exe.mdb

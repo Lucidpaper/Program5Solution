@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Program5Solution\fissbuzz\fissbuzz\bin\Debug\fissbuzz.exe.config
+C:\Users\Technologist\Documents\GitHub\Program5Solution\fissbuzz\fissbuzz\bin\Debug\fissbuzz.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solution\fissbuzz\fissbuzz\bin\Debug\fissbuzz.pdb
+C:\Users\Technologist\Documents\GitHub\Program5Solution\fissbuzz\fissbuzz\obj\Debug\fissbuzz.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Program5Solution\fissbuzz\fissbuzz\obj\Debug\fissbuzz.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solution\fissbuzz\fissbuzz\obj\Debug\fissbuzz.pdb
